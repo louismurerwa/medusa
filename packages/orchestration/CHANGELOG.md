@@ -1,5 +1,11 @@
 # @medusajs/orchestration
 
+## 0.1.0
+
+### Minor Changes
+
+- [#4553](https://github.com/medusajs/medusa/pull/4553) [`f12299deb`](https://github.com/medusajs/medusa/commit/f12299deb10baadab1505cd4ac353dd5d1c8fa7c) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - Medusa workflows package
+
 ## 0.0.2
 
 ### Patch Changes
